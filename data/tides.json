@@ -1,0 +1,1346 @@
+{
+  "source": "交通部中央氣象署",
+  "fetchedAt": "2026-10-17T08:49:15.619828+08:00",
+  "timeZone": "Asia/Taipei",
+  "heightDatum": "相對當地平均海平面，公分",
+  "stations": {
+    "shimen": {
+      "name": "石門",
+      "kind": "鄉鎮潮汐預報（非即時測站）",
+      "sourceUrl": "https://www.cwa.gov.tw/V8/C/M/Fishery/tide_30day_MOD/T500022.html",
+      "days": {
+        "2026-10-17": [
+          {
+            "type": "滿潮",
+            "time": "01:42",
+            "heightCm": 65
+          },
+          {
+            "type": "乾潮",
+            "time": "08:28",
+            "heightCm": -69
+          },
+          {
+            "type": "滿潮",
+            "time": "15:09",
+            "heightCm": 84
+          },
+          {
+            "type": "乾潮",
+            "time": "21:31",
+            "heightCm": -10
+          }
+        ],
+        "2026-10-18": [
+          {
+            "type": "滿潮",
+            "time": "02:34",
+            "heightCm": 56
+          },
+          {
+            "type": "乾潮",
+            "time": "09:23",
+            "heightCm": -58
+          },
+          {
+            "type": "滿潮",
+            "time": "16:15",
+            "heightCm": 78
+          },
+          {
+            "type": "乾潮",
+            "time": "22:35",
+            "heightCm": -6
+          }
+        ],
+        "2026-10-19": [
+          {
+            "type": "滿潮",
+            "time": "03:43",
+            "heightCm": 49
+          },
+          {
+            "type": "乾潮",
+            "time": "10:30",
+            "heightCm": -50
+          },
+          {
+            "type": "滿潮",
+            "time": "17:28",
+            "heightCm": 77
+          },
+          {
+            "type": "乾潮",
+            "time": "23:46",
+            "heightCm": -10
+          }
+        ],
+        "2026-10-20": [
+          {
+            "type": "滿潮",
+            "time": "05:11",
+            "heightCm": 49
+          },
+          {
+            "type": "乾潮",
+            "time": "11:42",
+            "heightCm": -48
+          },
+          {
+            "type": "滿潮",
+            "time": "18:33",
+            "heightCm": 81
+          }
+        ],
+        "2026-10-21": [
+          {
+            "type": "乾潮",
+            "time": "00:51",
+            "heightCm": -20
+          },
+          {
+            "type": "滿潮",
+            "time": "06:30",
+            "heightCm": 58
+          },
+          {
+            "type": "乾潮",
+            "time": "12:49",
+            "heightCm": -52
+          },
+          {
+            "type": "滿潮",
+            "time": "19:23",
+            "heightCm": 88
+          }
+        ],
+        "2026-10-22": [
+          {
+            "type": "乾潮",
+            "time": "01:45",
+            "heightCm": -34
+          },
+          {
+            "type": "滿潮",
+            "time": "07:29",
+            "heightCm": 72
+          },
+          {
+            "type": "乾潮",
+            "time": "13:49",
+            "heightCm": -59
+          },
+          {
+            "type": "滿潮",
+            "time": "20:04",
+            "heightCm": 95
+          }
+        ],
+        "2026-10-23": [
+          {
+            "type": "乾潮",
+            "time": "02:32",
+            "heightCm": -50
+          },
+          {
+            "type": "滿潮",
+            "time": "08:17",
+            "heightCm": 88
+          },
+          {
+            "type": "乾潮",
+            "time": "14:43",
+            "heightCm": -65
+          },
+          {
+            "type": "滿潮",
+            "time": "20:39",
+            "heightCm": 101
+          }
+        ],
+        "2026-10-24": [
+          {
+            "type": "乾潮",
+            "time": "03:14",
+            "heightCm": -67
+          },
+          {
+            "type": "滿潮",
+            "time": "09:00",
+            "heightCm": 104
+          },
+          {
+            "type": "乾潮",
+            "time": "15:36",
+            "heightCm": -69
+          },
+          {
+            "type": "滿潮",
+            "time": "21:13",
+            "heightCm": 105
+          }
+        ],
+        "2026-10-25": [
+          {
+            "type": "乾潮",
+            "time": "03:52",
+            "heightCm": -83
+          },
+          {
+            "type": "滿潮",
+            "time": "09:41",
+            "heightCm": 117
+          },
+          {
+            "type": "乾潮",
+            "time": "16:25",
+            "heightCm": -69
+          },
+          {
+            "type": "滿潮",
+            "time": "21:46",
+            "heightCm": 107
+          }
+        ],
+        "2026-10-26": [
+          {
+            "type": "乾潮",
+            "time": "04:27",
+            "heightCm": -97
+          },
+          {
+            "type": "滿潮",
+            "time": "10:21",
+            "heightCm": 126
+          },
+          {
+            "type": "乾潮",
+            "time": "17:11",
+            "heightCm": -65
+          },
+          {
+            "type": "滿潮",
+            "time": "22:19",
+            "heightCm": 106
+          }
+        ],
+        "2026-10-27": [
+          {
+            "type": "乾潮",
+            "time": "04:59",
+            "heightCm": -109
+          },
+          {
+            "type": "滿潮",
+            "time": "11:03",
+            "heightCm": 131
+          },
+          {
+            "type": "乾潮",
+            "time": "17:54",
+            "heightCm": -58
+          },
+          {
+            "type": "滿潮",
+            "time": "22:54",
+            "heightCm": 103
+          }
+        ],
+        "2026-10-28": [
+          {
+            "type": "乾潮",
+            "time": "05:31",
+            "heightCm": -116
+          },
+          {
+            "type": "滿潮",
+            "time": "11:46",
+            "heightCm": 130
+          },
+          {
+            "type": "乾潮",
+            "time": "18:35",
+            "heightCm": -49
+          },
+          {
+            "type": "滿潮",
+            "time": "23:32",
+            "heightCm": 98
+          }
+        ],
+        "2026-10-29": [
+          {
+            "type": "乾潮",
+            "time": "06:07",
+            "heightCm": -119
+          },
+          {
+            "type": "滿潮",
+            "time": "12:32",
+            "heightCm": 124
+          },
+          {
+            "type": "乾潮",
+            "time": "19:17",
+            "heightCm": -39
+          }
+        ],
+        "2026-10-30": [
+          {
+            "type": "滿潮",
+            "time": "00:14",
+            "heightCm": 91
+          },
+          {
+            "type": "乾潮",
+            "time": "06:51",
+            "heightCm": -116
+          },
+          {
+            "type": "滿潮",
+            "time": "13:24",
+            "heightCm": 114
+          },
+          {
+            "type": "乾潮",
+            "time": "20:04",
+            "heightCm": -31
+          }
+        ],
+        "2026-10-31": [
+          {
+            "type": "滿潮",
+            "time": "01:02",
+            "heightCm": 82
+          },
+          {
+            "type": "乾潮",
+            "time": "07:44",
+            "heightCm": -107
+          },
+          {
+            "type": "滿潮",
+            "time": "14:23",
+            "heightCm": 103
+          },
+          {
+            "type": "乾潮",
+            "time": "20:59",
+            "heightCm": -24
+          }
+        ],
+        "2026-11-01": [
+          {
+            "type": "滿潮",
+            "time": "02:00",
+            "heightCm": 71
+          },
+          {
+            "type": "乾潮",
+            "time": "08:49",
+            "heightCm": -95
+          },
+          {
+            "type": "滿潮",
+            "time": "15:30",
+            "heightCm": 94
+          },
+          {
+            "type": "乾潮",
+            "time": "22:08",
+            "heightCm": -23
+          }
+        ],
+        "2026-11-02": [
+          {
+            "type": "滿潮",
+            "time": "03:12",
+            "heightCm": 62
+          },
+          {
+            "type": "乾潮",
+            "time": "10:06",
+            "heightCm": -82
+          },
+          {
+            "type": "滿潮",
+            "time": "16:42",
+            "heightCm": 88
+          },
+          {
+            "type": "乾潮",
+            "time": "23:24",
+            "heightCm": -29
+          }
+        ],
+        "2026-11-03": [
+          {
+            "type": "滿潮",
+            "time": "04:38",
+            "heightCm": 59
+          },
+          {
+            "type": "乾潮",
+            "time": "11:29",
+            "heightCm": -74
+          },
+          {
+            "type": "滿潮",
+            "time": "17:53",
+            "heightCm": 88
+          }
+        ],
+        "2026-11-04": [
+          {
+            "type": "乾潮",
+            "time": "00:37",
+            "heightCm": -41
+          },
+          {
+            "type": "滿潮",
+            "time": "06:05",
+            "heightCm": 65
+          },
+          {
+            "type": "乾潮",
+            "time": "12:48",
+            "heightCm": -69
+          },
+          {
+            "type": "滿潮",
+            "time": "18:55",
+            "heightCm": 89
+          }
+        ],
+        "2026-11-05": [
+          {
+            "type": "乾潮",
+            "time": "01:41",
+            "heightCm": -57
+          },
+          {
+            "type": "滿潮",
+            "time": "07:18",
+            "heightCm": 77
+          },
+          {
+            "type": "乾潮",
+            "time": "14:01",
+            "heightCm": -66
+          },
+          {
+            "type": "滿潮",
+            "time": "19:47",
+            "heightCm": 90
+          }
+        ],
+        "2026-11-06": [
+          {
+            "type": "乾潮",
+            "time": "02:38",
+            "heightCm": -72
+          },
+          {
+            "type": "滿潮",
+            "time": "08:18",
+            "heightCm": 89
+          },
+          {
+            "type": "乾潮",
+            "time": "15:07",
+            "heightCm": -64
+          },
+          {
+            "type": "滿潮",
+            "time": "20:32",
+            "heightCm": 89
+          }
+        ],
+        "2026-11-07": [
+          {
+            "type": "乾潮",
+            "time": "03:27",
+            "heightCm": -85
+          },
+          {
+            "type": "滿潮",
+            "time": "09:09",
+            "heightCm": 98
+          },
+          {
+            "type": "乾潮",
+            "time": "16:04",
+            "heightCm": -61
+          },
+          {
+            "type": "滿潮",
+            "time": "21:11",
+            "heightCm": 86
+          }
+        ],
+        "2026-11-08": [
+          {
+            "type": "乾潮",
+            "time": "04:09",
+            "heightCm": -94
+          },
+          {
+            "type": "滿潮",
+            "time": "09:54",
+            "heightCm": 103
+          },
+          {
+            "type": "乾潮",
+            "time": "16:51",
+            "heightCm": -58
+          },
+          {
+            "type": "滿潮",
+            "time": "21:47",
+            "heightCm": 81
+          }
+        ],
+        "2026-11-09": [
+          {
+            "type": "乾潮",
+            "time": "04:44",
+            "heightCm": -100
+          },
+          {
+            "type": "滿潮",
+            "time": "10:35",
+            "heightCm": 104
+          },
+          {
+            "type": "乾潮",
+            "time": "17:30",
+            "heightCm": -54
+          },
+          {
+            "type": "滿潮",
+            "time": "22:20",
+            "heightCm": 77
+          }
+        ],
+        "2026-11-10": [
+          {
+            "type": "乾潮",
+            "time": "05:13",
+            "heightCm": -104
+          },
+          {
+            "type": "滿潮",
+            "time": "11:13",
+            "heightCm": 104
+          },
+          {
+            "type": "乾潮",
+            "time": "18:02",
+            "heightCm": -49
+          },
+          {
+            "type": "滿潮",
+            "time": "22:53",
+            "heightCm": 73
+          }
+        ],
+        "2026-11-11": [
+          {
+            "type": "乾潮",
+            "time": "05:40",
+            "heightCm": -105
+          },
+          {
+            "type": "滿潮",
+            "time": "11:51",
+            "heightCm": 101
+          },
+          {
+            "type": "乾潮",
+            "time": "18:32",
+            "heightCm": -44
+          },
+          {
+            "type": "滿潮",
+            "time": "23:25",
+            "heightCm": 69
+          }
+        ],
+        "2026-11-12": [
+          {
+            "type": "乾潮",
+            "time": "06:07",
+            "heightCm": -105
+          },
+          {
+            "type": "滿潮",
+            "time": "12:29",
+            "heightCm": 98
+          },
+          {
+            "type": "乾潮",
+            "time": "19:02",
+            "heightCm": -40
+          },
+          {
+            "type": "滿潮",
+            "time": "23:59",
+            "heightCm": 66
+          }
+        ],
+        "2026-11-13": [
+          {
+            "type": "乾潮",
+            "time": "06:38",
+            "heightCm": -101
+          },
+          {
+            "type": "滿潮",
+            "time": "13:08",
+            "heightCm": 93
+          },
+          {
+            "type": "乾潮",
+            "time": "19:36",
+            "heightCm": -35
+          }
+        ],
+        "2026-11-14": [
+          {
+            "type": "滿潮",
+            "time": "00:36",
+            "heightCm": 61
+          },
+          {
+            "type": "乾潮",
+            "time": "07:13",
+            "heightCm": -94
+          },
+          {
+            "type": "滿潮",
+            "time": "13:50",
+            "heightCm": 88
+          },
+          {
+            "type": "乾潮",
+            "time": "20:15",
+            "heightCm": -31
+          }
+        ],
+        "2026-11-15": [
+          {
+            "type": "滿潮",
+            "time": "01:18",
+            "heightCm": 57
+          },
+          {
+            "type": "乾潮",
+            "time": "07:54",
+            "heightCm": -85
+          },
+          {
+            "type": "滿潮",
+            "time": "14:35",
+            "heightCm": 82
+          },
+          {
+            "type": "乾潮",
+            "time": "21:01",
+            "heightCm": -27
+          }
+        ],
+        "2026-11-16": [
+          {
+            "type": "滿潮",
+            "time": "02:07",
+            "heightCm": 51
+          },
+          {
+            "type": "乾潮",
+            "time": "08:42",
+            "heightCm": -74
+          },
+          {
+            "type": "滿潮",
+            "time": "15:25",
+            "heightCm": 77
+          },
+          {
+            "type": "乾潮",
+            "time": "21:55",
+            "heightCm": -27
+          }
+        ]
+      }
+    },
+    "tamsui": {
+      "name": "淡水",
+      "kind": "鄉鎮潮汐預報（非即時測站）",
+      "sourceUrl": "https://www.cwa.gov.tw/V8/C/M/Fishery/tide_30day_MOD/T500010.html",
+      "days": {
+        "2026-10-17": [
+          {
+            "type": "滿潮",
+            "time": "02:04",
+            "heightCm": 103
+          },
+          {
+            "type": "乾潮",
+            "time": "08:29",
+            "heightCm": -92
+          },
+          {
+            "type": "滿潮",
+            "time": "15:13",
+            "heightCm": 115
+          },
+          {
+            "type": "乾潮",
+            "time": "21:19",
+            "heightCm": -20
+          }
+        ],
+        "2026-10-18": [
+          {
+            "type": "滿潮",
+            "time": "02:55",
+            "heightCm": 89
+          },
+          {
+            "type": "乾潮",
+            "time": "09:22",
+            "heightCm": -76
+          },
+          {
+            "type": "滿潮",
+            "time": "16:17",
+            "heightCm": 105
+          },
+          {
+            "type": "乾潮",
+            "time": "22:28",
+            "heightCm": -13
+          }
+        ],
+        "2026-10-19": [
+          {
+            "type": "滿潮",
+            "time": "04:03",
+            "heightCm": 78
+          },
+          {
+            "type": "乾潮",
+            "time": "10:29",
+            "heightCm": -64
+          },
+          {
+            "type": "滿潮",
+            "time": "17:31",
+            "heightCm": 102
+          },
+          {
+            "type": "乾潮",
+            "time": "23:48",
+            "heightCm": -16
+          }
+        ],
+        "2026-10-20": [
+          {
+            "type": "滿潮",
+            "time": "05:27",
+            "heightCm": 76
+          },
+          {
+            "type": "乾潮",
+            "time": "11:48",
+            "heightCm": -60
+          },
+          {
+            "type": "滿潮",
+            "time": "18:39",
+            "heightCm": 109
+          }
+        ],
+        "2026-10-21": [
+          {
+            "type": "乾潮",
+            "time": "00:57",
+            "heightCm": -30
+          },
+          {
+            "type": "滿潮",
+            "time": "06:44",
+            "heightCm": 88
+          },
+          {
+            "type": "乾潮",
+            "time": "13:00",
+            "heightCm": -66
+          },
+          {
+            "type": "滿潮",
+            "time": "19:34",
+            "heightCm": 121
+          }
+        ],
+        "2026-10-22": [
+          {
+            "type": "乾潮",
+            "time": "01:50",
+            "heightCm": -49
+          },
+          {
+            "type": "滿潮",
+            "time": "07:45",
+            "heightCm": 108
+          },
+          {
+            "type": "乾潮",
+            "time": "13:58",
+            "heightCm": -78
+          },
+          {
+            "type": "滿潮",
+            "time": "20:19",
+            "heightCm": 135
+          }
+        ],
+        "2026-10-23": [
+          {
+            "type": "乾潮",
+            "time": "02:34",
+            "heightCm": -72
+          },
+          {
+            "type": "滿潮",
+            "time": "08:34",
+            "heightCm": 131
+          },
+          {
+            "type": "乾潮",
+            "time": "14:46",
+            "heightCm": -90
+          },
+          {
+            "type": "滿潮",
+            "time": "20:57",
+            "heightCm": 147
+          }
+        ],
+        "2026-10-24": [
+          {
+            "type": "乾潮",
+            "time": "03:11",
+            "heightCm": -95
+          },
+          {
+            "type": "滿潮",
+            "time": "09:18",
+            "heightCm": 153
+          },
+          {
+            "type": "乾潮",
+            "time": "15:30",
+            "heightCm": -98
+          },
+          {
+            "type": "滿潮",
+            "time": "21:33",
+            "heightCm": 156
+          }
+        ],
+        "2026-10-25": [
+          {
+            "type": "乾潮",
+            "time": "03:47",
+            "heightCm": -118
+          },
+          {
+            "type": "滿潮",
+            "time": "09:59",
+            "heightCm": 172
+          },
+          {
+            "type": "乾潮",
+            "time": "16:10",
+            "heightCm": -102
+          },
+          {
+            "type": "滿潮",
+            "time": "22:07",
+            "heightCm": 161
+          }
+        ],
+        "2026-10-26": [
+          {
+            "type": "乾潮",
+            "time": "04:22",
+            "heightCm": -137
+          },
+          {
+            "type": "滿潮",
+            "time": "10:40",
+            "heightCm": 184
+          },
+          {
+            "type": "乾潮",
+            "time": "16:50",
+            "heightCm": -99
+          },
+          {
+            "type": "滿潮",
+            "time": "22:42",
+            "heightCm": 162
+          }
+        ],
+        "2026-10-27": [
+          {
+            "type": "乾潮",
+            "time": "04:58",
+            "heightCm": -152
+          },
+          {
+            "type": "滿潮",
+            "time": "11:20",
+            "heightCm": 189
+          },
+          {
+            "type": "乾潮",
+            "time": "17:30",
+            "heightCm": -91
+          },
+          {
+            "type": "滿潮",
+            "time": "23:17",
+            "heightCm": 158
+          }
+        ],
+        "2026-10-28": [
+          {
+            "type": "乾潮",
+            "time": "05:36",
+            "heightCm": -161
+          },
+          {
+            "type": "滿潮",
+            "time": "12:03",
+            "heightCm": 185
+          },
+          {
+            "type": "乾潮",
+            "time": "18:11",
+            "heightCm": -80
+          },
+          {
+            "type": "滿潮",
+            "time": "23:55",
+            "heightCm": 150
+          }
+        ],
+        "2026-10-29": [
+          {
+            "type": "乾潮",
+            "time": "06:16",
+            "heightCm": -162
+          },
+          {
+            "type": "滿潮",
+            "time": "12:48",
+            "heightCm": 175
+          },
+          {
+            "type": "乾潮",
+            "time": "18:54",
+            "heightCm": -67
+          }
+        ],
+        "2026-10-30": [
+          {
+            "type": "滿潮",
+            "time": "00:36",
+            "heightCm": 139
+          },
+          {
+            "type": "乾潮",
+            "time": "07:02",
+            "heightCm": -155
+          },
+          {
+            "type": "滿潮",
+            "time": "13:38",
+            "heightCm": 159
+          },
+          {
+            "type": "乾潮",
+            "time": "19:43",
+            "heightCm": -53
+          }
+        ],
+        "2026-10-31": [
+          {
+            "type": "滿潮",
+            "time": "01:24",
+            "heightCm": 125
+          },
+          {
+            "type": "乾潮",
+            "time": "07:53",
+            "heightCm": -141
+          },
+          {
+            "type": "滿潮",
+            "time": "14:36",
+            "heightCm": 142
+          },
+          {
+            "type": "乾潮",
+            "time": "20:41",
+            "heightCm": -42
+          }
+        ],
+        "2026-11-01": [
+          {
+            "type": "滿潮",
+            "time": "02:21",
+            "heightCm": 109
+          },
+          {
+            "type": "乾潮",
+            "time": "08:53",
+            "heightCm": -122
+          },
+          {
+            "type": "滿潮",
+            "time": "15:42",
+            "heightCm": 128
+          },
+          {
+            "type": "乾潮",
+            "time": "21:52",
+            "heightCm": -37
+          }
+        ],
+        "2026-11-02": [
+          {
+            "type": "滿潮",
+            "time": "03:34",
+            "heightCm": 96
+          },
+          {
+            "type": "乾潮",
+            "time": "10:06",
+            "heightCm": -104
+          },
+          {
+            "type": "滿潮",
+            "time": "16:55",
+            "heightCm": 121
+          },
+          {
+            "type": "乾潮",
+            "time": "23:13",
+            "heightCm": -42
+          }
+        ],
+        "2026-11-03": [
+          {
+            "type": "滿潮",
+            "time": "05:00",
+            "heightCm": 91
+          },
+          {
+            "type": "乾潮",
+            "time": "11:29",
+            "heightCm": -92
+          },
+          {
+            "type": "滿潮",
+            "time": "18:07",
+            "heightCm": 121
+          }
+        ],
+        "2026-11-04": [
+          {
+            "type": "乾潮",
+            "time": "00:29",
+            "heightCm": -57
+          },
+          {
+            "type": "滿潮",
+            "time": "06:25",
+            "heightCm": 99
+          },
+          {
+            "type": "乾潮",
+            "time": "12:48",
+            "heightCm": -89
+          },
+          {
+            "type": "滿潮",
+            "time": "19:11",
+            "heightCm": 126
+          }
+        ],
+        "2026-11-05": [
+          {
+            "type": "乾潮",
+            "time": "01:34",
+            "heightCm": -77
+          },
+          {
+            "type": "滿潮",
+            "time": "07:37",
+            "heightCm": 114
+          },
+          {
+            "type": "乾潮",
+            "time": "13:56",
+            "heightCm": -90
+          },
+          {
+            "type": "滿潮",
+            "time": "20:05",
+            "heightCm": 131
+          }
+        ],
+        "2026-11-06": [
+          {
+            "type": "乾潮",
+            "time": "02:28",
+            "heightCm": -97
+          },
+          {
+            "type": "滿潮",
+            "time": "08:38",
+            "heightCm": 130
+          },
+          {
+            "type": "乾潮",
+            "time": "14:54",
+            "heightCm": -90
+          },
+          {
+            "type": "滿潮",
+            "time": "20:52",
+            "heightCm": 134
+          }
+        ],
+        "2026-11-07": [
+          {
+            "type": "乾潮",
+            "time": "03:14",
+            "heightCm": -114
+          },
+          {
+            "type": "滿潮",
+            "time": "09:29",
+            "heightCm": 143
+          },
+          {
+            "type": "乾潮",
+            "time": "15:44",
+            "heightCm": -88
+          },
+          {
+            "type": "滿潮",
+            "time": "21:33",
+            "heightCm": 134
+          }
+        ],
+        "2026-11-08": [
+          {
+            "type": "乾潮",
+            "time": "03:55",
+            "heightCm": -127
+          },
+          {
+            "type": "滿潮",
+            "time": "10:14",
+            "heightCm": 151
+          },
+          {
+            "type": "乾潮",
+            "time": "16:28",
+            "heightCm": -84
+          },
+          {
+            "type": "滿潮",
+            "time": "22:10",
+            "heightCm": 131
+          }
+        ],
+        "2026-11-09": [
+          {
+            "type": "乾潮",
+            "time": "04:31",
+            "heightCm": -135
+          },
+          {
+            "type": "滿潮",
+            "time": "10:54",
+            "heightCm": 154
+          },
+          {
+            "type": "乾潮",
+            "time": "17:07",
+            "heightCm": -79
+          },
+          {
+            "type": "滿潮",
+            "time": "22:45",
+            "heightCm": 126
+          }
+        ],
+        "2026-11-10": [
+          {
+            "type": "乾潮",
+            "time": "05:04",
+            "heightCm": -139
+          },
+          {
+            "type": "滿潮",
+            "time": "11:31",
+            "heightCm": 152
+          },
+          {
+            "type": "乾潮",
+            "time": "17:42",
+            "heightCm": -73
+          },
+          {
+            "type": "滿潮",
+            "time": "23:17",
+            "heightCm": 121
+          }
+        ],
+        "2026-11-11": [
+          {
+            "type": "乾潮",
+            "time": "05:35",
+            "heightCm": -141
+          },
+          {
+            "type": "滿潮",
+            "time": "12:06",
+            "heightCm": 148
+          },
+          {
+            "type": "乾潮",
+            "time": "18:15",
+            "heightCm": -67
+          },
+          {
+            "type": "滿潮",
+            "time": "23:49",
+            "heightCm": 116
+          }
+        ],
+        "2026-11-12": [
+          {
+            "type": "乾潮",
+            "time": "06:07",
+            "heightCm": -139
+          },
+          {
+            "type": "滿潮",
+            "time": "12:41",
+            "heightCm": 142
+          },
+          {
+            "type": "乾潮",
+            "time": "18:48",
+            "heightCm": -61
+          }
+        ],
+        "2026-11-13": [
+          {
+            "type": "滿潮",
+            "time": "00:23",
+            "heightCm": 110
+          },
+          {
+            "type": "乾潮",
+            "time": "06:41",
+            "heightCm": -134
+          },
+          {
+            "type": "滿潮",
+            "time": "13:17",
+            "heightCm": 134
+          },
+          {
+            "type": "乾潮",
+            "time": "19:23",
+            "heightCm": -55
+          }
+        ],
+        "2026-11-14": [
+          {
+            "type": "滿潮",
+            "time": "00:59",
+            "heightCm": 103
+          },
+          {
+            "type": "乾潮",
+            "time": "07:18",
+            "heightCm": -124
+          },
+          {
+            "type": "滿潮",
+            "time": "13:57",
+            "heightCm": 124
+          },
+          {
+            "type": "乾潮",
+            "time": "20:03",
+            "heightCm": -48
+          }
+        ],
+        "2026-11-15": [
+          {
+            "type": "滿潮",
+            "time": "01:39",
+            "heightCm": 94
+          },
+          {
+            "type": "乾潮",
+            "time": "08:00",
+            "heightCm": -112
+          },
+          {
+            "type": "滿潮",
+            "time": "14:41",
+            "heightCm": 115
+          },
+          {
+            "type": "乾潮",
+            "time": "20:50",
+            "heightCm": -43
+          }
+        ],
+        "2026-11-16": [
+          {
+            "type": "滿潮",
+            "time": "02:27",
+            "heightCm": 85
+          },
+          {
+            "type": "乾潮",
+            "time": "08:47",
+            "heightCm": -98
+          },
+          {
+            "type": "滿潮",
+            "time": "15:32",
+            "heightCm": 108
+          },
+          {
+            "type": "乾潮",
+            "time": "21:45",
+            "heightCm": -40
+          }
+        ]
+      }
+    }
+  }
+}
