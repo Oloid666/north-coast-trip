@@ -24,7 +24,8 @@ jobs:
         run: python scripts/update_tides.py
       - name: Commit refreshed data for the public raw data endpoint
         run: |
-          if git diff --quiet -- data/tides.json; then exit 0; fi
+          git add data/tides.json
+          if git diff --cached --quiet -- data/tides.json; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/tides.json
