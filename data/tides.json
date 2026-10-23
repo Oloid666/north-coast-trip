@@ -1,6 +1,6 @@
 {
   "source": "交通部中央氣象署",
-  "fetchedAt": "2026-10-23T20:59:49.889546+08:00",
+  "fetchedAt": "2026-10-24T02:57:29.911301+08:00",
   "timeZone": "Asia/Taipei",
   "heightDatum": "相對當地平均海平面，公分",
   "stations": {
@@ -9,28 +9,6 @@
       "kind": "鄉鎮潮汐預報（非即時測站）",
       "sourceUrl": "https://www.cwa.gov.tw/V8/C/M/Fishery/tide_30day_MOD/T500022.html",
       "days": {
-        "2026-10-23": [
-          {
-            "type": "乾潮",
-            "time": "02:32",
-            "heightCm": -50
-          },
-          {
-            "type": "滿潮",
-            "time": "08:17",
-            "heightCm": 88
-          },
-          {
-            "type": "乾潮",
-            "time": "14:43",
-            "heightCm": -65
-          },
-          {
-            "type": "滿潮",
-            "time": "20:39",
-            "heightCm": 101
-          }
-        ],
         "2026-10-24": [
           {
             "type": "乾潮",
@@ -670,6 +648,28 @@
             "time": "20:29",
             "heightCm": 87
           }
+        ],
+        "2026-11-23": [
+          {
+            "type": "乾潮",
+            "time": "03:03",
+            "heightCm": -107
+          },
+          {
+            "type": "滿潮",
+            "time": "09:19",
+            "heightCm": 109
+          },
+          {
+            "type": "乾潮",
+            "time": "15:58",
+            "heightCm": -60
+          },
+          {
+            "type": "滿潮",
+            "time": "21:10",
+            "heightCm": 88
+          }
         ]
       }
     },
@@ -678,28 +678,6 @@
       "kind": "鄉鎮潮汐預報（非即時測站）",
       "sourceUrl": "https://www.cwa.gov.tw/V8/C/M/Fishery/tide_30day_MOD/T500010.html",
       "days": {
-        "2026-10-23": [
-          {
-            "type": "乾潮",
-            "time": "02:34",
-            "heightCm": -72
-          },
-          {
-            "type": "滿潮",
-            "time": "08:34",
-            "heightCm": 131
-          },
-          {
-            "type": "乾潮",
-            "time": "14:46",
-            "heightCm": -90
-          },
-          {
-            "type": "滿潮",
-            "time": "20:57",
-            "heightCm": 147
-          }
-        ],
         "2026-10-24": [
           {
             "type": "乾潮",
@@ -1338,6 +1316,28 @@
             "type": "滿潮",
             "time": "20:50",
             "heightCm": 134
+          }
+        ],
+        "2026-11-23": [
+          {
+            "type": "乾潮",
+            "time": "03:08",
+            "heightCm": -143
+          },
+          {
+            "type": "滿潮",
+            "time": "09:35",
+            "heightCm": 158
+          },
+          {
+            "type": "乾潮",
+            "time": "15:42",
+            "heightCm": -89
+          },
+          {
+            "type": "滿潮",
+            "time": "21:32",
+            "heightCm": 138
           }
         ]
       }
